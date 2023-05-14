@@ -26,7 +26,7 @@ The steps Include:
     
 
 ## Description of the dataset
-Dataset [link]([https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset?datasetId=886508&sortBy=dateRun&tab=profile])!
+Dataset Link : https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset?datasetId=886508&sortBy=dateRun&tab=profile
 
 
 This data set contains information collected from direct questionnaires given to patients at the Sylhet Diabetes Hospital in Sylhet, Bangladesh, and approved by a doctor. The attributes include:
