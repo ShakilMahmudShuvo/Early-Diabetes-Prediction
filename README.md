@@ -18,6 +18,12 @@ The steps Include:
   - Data Normalization
   - k-Fold cross-validation
   - Model Building
+    - Logistic Regression
+    - Random Forest
+    - SVM
+    - KNN
+    - Gaussian NB
+    
 
 ## Description of the dataset
 Dataset [link]([https://www.example.com](https://www.kaggle.com/datasets/ishandutta/early-stage-diabetes-risk-prediction-dataset?datasetId=886508&sortBy=dateRun&tab=profile))!
