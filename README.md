@@ -1,4 +1,4 @@
-# Early-Heart-Disease-Prediction
+# Early-Diabetes-Prediction
 I have worked on an Early Diabetes Detection project, which is a machine learning project aimed at predicting the likelihood of a person having diabetes based on their symptoms and other factors. I used a dataset collected from direct questionnaires given to patients at the Sylhet Diabetes Hospital in Sylhet, Bangladesh to train four different machine learning algorithms to predict the presence of diabetes.
 
 The goal of this project is to help detect diabetes early and provide preventative care to those who need it. I prepared the data and engineered relevant features to enable effective modeling. I then applied different machine learning algorithms to the data, including logistic regression, decision trees, random forests, and neural networks.
